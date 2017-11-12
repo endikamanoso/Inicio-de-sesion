@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+	<usuario>
+		<nombre>Endika</nombre>
+		<apellidos>Mañoso Ortúzar</apellidos>
+		<id>admin</id>
+		<contraseña>4814950b5db8431e2df0f045379d4555763f32d3</contraseña><!--endi-->
+	</usuario>
+	<usuario>
+		<nombre>Gorka</nombre>
+		<apellidos>Martinez Goitia</apellidos>
+		<id>normal</id>
+		<contraseña>6ef9dfeb719ab0563ba6e79a25ba5af29bdc0c84</contraseña><!--gorki-->
+	</usuario>
+	<usuario>
+		<nombre>Fernando</nombre>
+		<apellidos>Gonzalez Trapote</apellidos>
+		<id>normal</id>
+		<contraseña>cef48cb4569d34364e0e86067efa14fbe9b4591e</contraseña><!--fer-->
+	</usuario>
+	<usuario>
+		<nombre>Will</nombre>
+		<apellidos>Gonzalez Perez</apellidos>
+		<id>normal</id>
+		<contraseña>990c37a323daf1549bdd24197927625080ee16b8</contraseña><!--willy-->
+	</usuario>
+</usuarios>
+<!--<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+	<usuario rol="admin">
+		<nombre>Endika</nombre>
+		<apellidos>Mañoso Ortúzar</apellidos>
+		<contraseña>endi</contraseña>
+	</usuario>
+	<usuario rol="user">
+		<nombre>Gorka</nombre>
+		<apellidos>Martinez Goitia</apellidos>
+		<contraseña>gorki</contraseña>
+	</usuario>
+	<usuario rol="user">
+		<nombre>Fernando</nombre>
+		<apellidos>Gonzalez Trapote</apellidos>
+		<contraseña>fer</contraseña>
+	</usuario>
+	<usuario rol="user">
+		<nombre>Will</nombre>
+		<apellidos>Gonzalez Perez</apellidos>
+		<contraseña>willy</contraseña>
+	</usuario>
+</usuarios>-->

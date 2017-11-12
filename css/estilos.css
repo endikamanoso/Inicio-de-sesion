@@ -1,0 +1,32 @@
+.jumbotron{
+	background-color: green;
+	color           : white;
+}
+h2{
+	color: grey;
+}
+a{
+	text-decoration: none;
+	width: 150px;
+	text-align: left;
+}
+#acceso_datos_usuarios{
+	position : fixed;
+	top      : 40px;
+	right    : 0;
+	color    : green;
+
+}
+#titulo_cerrar_sesion{
+	position : fixed;
+	top      : 0;
+	right    : 0;
+	color    : green;
+
+}
+
+@media (max-width: 400px) {
+	#titulo_cerrar_sesion{
+		position: static;
+	}
+}
